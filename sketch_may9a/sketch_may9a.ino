@@ -11,7 +11,7 @@ void loop() {
     delayMicroseconds(10); 
   }
   
-  delayMicroseconds(2600);
+  delayMicroseconds(2586);
   
   digitalWrite(salidaPin, HIGH);
   delayMicroseconds(10);  
