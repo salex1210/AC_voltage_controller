@@ -1,8 +1,7 @@
-# CONTROL AC DE LINEA
+# SINGLE-PHASE AC VOLTAGE CONTROLLER
 
-Un controlador de voltaje de corriente alterna (AC) es un convertidor que regula el voltaje, la corriente y la potencia promedio suministrada a una carga AC desde una fuente AC. Utiliza interruptores electrónicos que conectan y desconectan la fuente y la carga en intervalos regulares. En el esquema de control de fase, el conmutado ocurre en cada ciclo de la fuente, eliminando parte de la onda de la fuente antes de que llegue a la carga. Otra forma de control es el control de ciclo integral, donde la fuente se conecta y desconecta por varios ciclos a la vez.
+A voltage controller for alternating current (AC) is a converter that regulates the voltage, current, and average power supplied to an AC load from an AC source. It uses electronic switches that connect and disconnect the source and the load at regular intervals. In the phase control scheme, switching occurs in each cycle of the source, removing part of the waveform before it reaches the load. Another control method is integral cycle control, where the source is connected and disconnected for several cycles at a time.
 
-El presente proyecto aborda el diseño de un control AC para suministrar una potencia de 5KW a una carga R-L serie, utilizando una tensión de alimentación de 220V AC. Se espera que los resultados obtenidos contribuyan al avance en el diseño y desarrollo de sistemas de control AC en el ámbito industrial.
+This project addresses the design of an AC control to supply 5KW of power to a series R-L load, using a 220V AC supply voltage. The results obtained are expected to contribute to advancements in the design and development of AC control systems in the industrial field.
 
-Este proyecto proporciona una base sólida de conocimientos sobre los componentes y conceptos clave relacionados con el diseño y simulación de un control AC de línea.
- 
+This project provides a solid knowledge base on the key components and concepts related to the design and simulation of a line AC control.
